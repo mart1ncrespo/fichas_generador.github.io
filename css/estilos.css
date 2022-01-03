@@ -1,0 +1,16 @@
+.container{
+    margin: 1em;
+    padding-top: 2em;
+}
+.info{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 1em;
+}
+/* MOBIL */
+@media only screen and (max-width: 420px){
+.container {
+    padding-left: 1em;
+}
+}
